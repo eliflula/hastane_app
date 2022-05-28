@@ -1,0 +1,7 @@
+Sizden bir hastahane otomasyonu programı istenmektedir. Projeniz vezne-hasta kabul, poliklinik, servis, tetkik birimleri ve eczane/depo olmak üzere 5 birimden oluşmaktadır. Bu birimler arasında ilişkiler oluşturulmalı masaüstü programınızı aktif paket program haline getirmelisiniz. Program tek bir bilgisayarda çalışacak şekilde dizayn edilmeli. Girişte kullanıcı şifresi sormalıdır. Şİfreniz 11111 olabilir. 
+
+Program Mutlaka C# program dilinde yapılacaktır. Başka bir dil kabul görmeyecektir. 
+
+Programı bitirince kayıt dosyasınıniçindeki exe dosyaları silinecek klasör rar ile sıkıştırılıp enyilmaz@gazi.edu.tr adresine gönderilecek vede lms sistemine de ayrıca yüklenecektir. 
+
+Bitiş tarihi bölüm final tarihine uygun olarak 16 haziran salı saat 10:00 olarak belirlenmiştir. Uzatılması mümkün değildir.

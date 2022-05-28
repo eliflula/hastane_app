@@ -1,0 +1,100 @@
+C:\Users\İrfan Arslan\Source\Repos\Hastane.App\Hastane.App\bin\Debug\Hastane.App.exe.config
+C:\Users\İrfan Arslan\Source\Repos\Hastane.App\Hastane.App\bin\Debug\Hastane.App.exe
+C:\Users\İrfan Arslan\Source\Repos\Hastane.App\Hastane.App\bin\Debug\Hastane.App.pdb
+C:\Users\İrfan Arslan\Source\Repos\Hastane.App\Hastane.App\bin\Debug\Data.dll
+C:\Users\İrfan Arslan\Source\Repos\Hastane.App\Hastane.App\bin\Debug\Data.pdb
+C:\Users\İrfan Arslan\Source\Repos\Hastane.App\Hastane.App\obj\Debug\Hastane.App.csprojAssemblyReference.cache
+C:\Users\İrfan Arslan\Source\Repos\Hastane.App\Hastane.App\obj\Debug\Hastane.App.Main.resources
+C:\Users\İrfan Arslan\Source\Repos\Hastane.App\Hastane.App\obj\Debug\Hastane.App.Properties.Resources.resources
+C:\Users\İrfan Arslan\Source\Repos\Hastane.App\Hastane.App\obj\Debug\Hastane.App.csproj.GenerateResource.cache
+C:\Users\İrfan Arslan\Source\Repos\Hastane.App\Hastane.App\obj\Debug\Hastane.App.csproj.CopyComplete
+C:\Users\İrfan Arslan\Source\Repos\Hastane.App\Hastane.App\obj\Debug\Hastane.App.exe
+C:\Users\İrfan Arslan\Source\Repos\Hastane.App\Hastane.App\obj\Debug\Hastane.App.pdb
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\bin\Debug\Hastane.App.exe
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\bin\Debug\Data.dll
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\bin\Debug\MODEL.dll
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\bin\Debug\BLL.dll
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\bin\Debug\BLL.pdb
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\bin\Debug\Data.pdb
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\bin\Debug\Data.dll.config
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\bin\Debug\MODEL.pdb
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\obj\Debug\Hastane.App.csprojAssemblyReference.cache
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\obj\Debug\Hastane.App.Forms.DoktorPoli.resources
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\obj\Debug\Hastane.App.Forms.HastaServisi.resources
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\obj\Debug\Hastane.App.Forms.IlacDepo.resources
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\obj\Debug\Hastane.App.Forms.KayıtSorgu.resources
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\obj\Debug\Hastane.App.Login.resources
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\obj\Debug\Hastane.App.Forms.HastaKayıt.resources
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\obj\Debug\Hastane.App.Forms.AnaMenu.resources
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\obj\Debug\Hastane.App.Forms.ServisBilgi.resources
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\obj\Debug\Hastane.App.Properties.Resources.resources
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\obj\Debug\Hastane.App.csproj.GenerateResource.cache
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\obj\Debug\Hastane.App.exe
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\obj\Debug\Hastane.App.pdb
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\bin\Debug\Hastane.App.exe.config
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\bin\Debug\Hastane.App.pdb
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\obj\Debug\Hastane.App.csproj.CopyComplete
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\bin\Debug\Hastane.App.exe.manifest
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\bin\Debug\Hastane.App.application
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\obj\Debug\Hastane.App.TrustInfo.xml
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\obj\Debug\Hastane.App.exe.manifest
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Hastane.App\obj\Debug\Hastane.App.application
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\Hastane.App.exe.config
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\Hastane.App.exe.manifest
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\Hastane.App.application
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\Hastane.App.exe
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\Hastane.App.pdb
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\BLL.dll
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\Data.dll
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\MODEL.dll
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\BLL.pdb
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\Data.pdb
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\Data.dll.config
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\MODEL.pdb
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.csprojAssemblyReference.cache
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.Forms.DoktorPoli.resources
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.Forms.HastaServisi.resources
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.Forms.IlacDepo.resources
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.Forms.KayıtSorgu.resources
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.Login.resources
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.Forms.HastaKayıt.resources
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.Forms.AnaMenu.resources
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.Forms.ServisBilgi.resources
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.Properties.Resources.resources
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.csproj.GenerateResource.cache
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.TrustInfo.xml
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.exe.manifest
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.application
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.csproj.CopyComplete
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.exe
+C:\Users\İrfan Arslan\Desktop\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.pdb
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\Hastane.App.exe.config
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\Hastane.App.exe.manifest
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\Hastane.App.application
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\Hastane.App.exe
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\Hastane.App.pdb
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\BLL.dll
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\Data.dll
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\MODEL.dll
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\BLL.pdb
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\Data.pdb
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\Data.dll.config
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\bin\Debug\MODEL.pdb
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.Forms.DoktorPoli.resources
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.Forms.HastaServisi.resources
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.Forms.IlacDepo.resources
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.Forms.KayıtSorgu.resources
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.Login.resources
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.Forms.HastaKayıt.resources
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.Forms.AnaMenu.resources
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.Forms.ServisBilgi.resources
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.TrustInfo.xml
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.exe.manifest
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.application
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.csproj.CopyComplete
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.exe
+C:\Users\user\OneDrive\Masaüstü\ELİF HASTANE\HastaneApp\Hastane Solution\Hastane.App\obj\Debug\Hastane.App.pdb

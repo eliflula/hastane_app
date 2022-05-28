@@ -1,0 +1,2 @@
+KULLANICI ADI : admin
+ŞİFRE : 11111
