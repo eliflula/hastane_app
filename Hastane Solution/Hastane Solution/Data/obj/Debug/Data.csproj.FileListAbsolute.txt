@@ -1,0 +1,14 @@
+C:\Users\İrfan Arslan\Source\Repos\Hastane.App\Data\bin\Debug\Data.dll
+C:\Users\İrfan Arslan\Source\Repos\Hastane.App\Data\bin\Debug\Data.pdb
+C:\Users\İrfan Arslan\Source\Repos\Hastane.App\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\İrfan Arslan\Source\Repos\Hastane.App\Data\obj\Debug\Data.dll
+C:\Users\İrfan Arslan\Source\Repos\Hastane.App\Data\obj\Debug\Data.pdb
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Data\bin\Debug\Data.dll.config
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Data\bin\Debug\Data.dll
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Data\bin\Debug\Data.pdb
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Data\bin\Debug\MODEL.dll
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Data\bin\Debug\MODEL.pdb
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Data\obj\Debug\Data.dll
+C:\Users\İrfan Arslan\Desktop\Hastane.App\Data\obj\Debug\Data.pdb
